@@ -1,5 +1,4 @@
-# De Stem van de Amstel 
-## een waternet hackathon
+# De Stem van de Amstel - een waternet hackathon
 
 Tijdens deze hackathon duik je in de wereld van waterkwaliteit in de Amstel. Wat gebeurt er eigenlijk in de rivier? Hoe gezond is het water? En hoe kun je dat op een boeiende manier laten zien of vertellen?
 
