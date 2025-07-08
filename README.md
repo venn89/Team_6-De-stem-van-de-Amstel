@@ -12,3 +12,24 @@ Laat je creativiteit de vrije loop:
 
 Ontdek de kracht van data en help de Amstel haar verhaal te vertellen!
 
+## Inspiratie:
+
+https://rvs.rivm.nl/onderwerpen/normen/milieu/oppervlaktewater
+
+https://watismijnwaterkwaliteit.nl/gebieden/BoezemAmstelland-West
+
+https://www.deltares.nl/nieuws/werelds-eerste-drijvende-stem-van-de-natuur-verklapt-waterkwaliteit
+
+https://www.sensingclues.org/wildchats
+
+## Handige tools:
+ 
+https://suno.com/home
+
+https://platform.openai.com/docs/overview
+
+https://github.com/open-webui/open-webui
+
+https://gemini.google/overview/video-generation/
+
+https://ollama.com/
