@@ -12,14 +12,14 @@ Vanaf 2006 toetsing is alles gemeten volgens een bepaalde standaard, hiervoor is
 | Naam | Beschrijving | Opmerkingen |
 |------|---------------|--------------|
 | `normen_stoffen_zoetwater.csv` | Bevat normen van het RIVM per stof voor zoetwater | Chemische toetsing |
-| `STOWA_2018-49-Maatlatten v2024 DEF.pdf` | Maatlatten STOWA kader richtlijn water| Uitleg berekening oppervlaktewater kwaliteit |
-| `factsheets` | Factsheets het waterschapshuis oppervlaktewaterkwaliteit| factsheet van verschillende jaren, NL11_1_1 is Amstelland het gebied waar we naar kijken |
-| `FYCHEM_alleParamtrs_alleJaren_Amstelland_1900tmjuni.csv` | Fysische Chemische data voor alle jaren |  |
-| `HB_alleKwalelementen_alleJaren_Amstelland.csv` | Hydrobiologische data voor alle jaren |  |
+| `STOWA_2018-49-Maatlatten v2024 DEF.pdf` | Maatlatten STOWA kader richtlijn water| Uitleg hoe de berekening oppervlaktewater kwaliteit word gedaan en wat de eisen zijn |
+| `factsheets` | Factsheets het waterschapshuis oppervlaktewaterkwaliteit| Beoordeling en maatregelen per jaar in factsheets |
+| `FYCHEM_alleParamtrs_alleJaren_Amstelland_1900tmjuni.csv` | Fysische Chemische data voor alle jaren | Meetwaardes |
+| `HB_alleKwalelementen_alleJaren_Amstelland.csv` | Hydrobiologische data voor alle jaren | Meetwaardes |
 | `Beheerregister_EAG_20241218` | Shapefile ecologische analyse gebied |  |
 | `Beheerregister_Water_20241218` | Shapefile Afaanvoergebieden |  |
 | `Watersysteemkaarten` | In een watersysteemkaart zijn per af aanvoergebied de kunstwerken (gemalen, stuwen, schotten, inlaten, duikers, dammen, enz ) de watergangen en de peilgebieden met peilen te vinden | Ter informatie |
-| `Uitvoer aquokit` | Resultaten uit aquokit waardes oppervlaktewaterkwaliteit | Voor fytoplankton, macrofauna, macrofyten en vissen |
+| `Uitvoer aquokit` | Resultaten uit aquokit waardes berekening oppervlaktewaterkwaliteit | Voor fytoplankton, macrofauna, macrofyten en vissen |
 | `200_Mb6AnMOverige waterflora deelmaatlat soortensamenstelling - lijst van scorende soorten - M-typen_202507071242` | Lijst van stoffen welke goed zijn voor oppervlaktewater en welke slecht | 1-3 word als goed beschouwd, 4-5 als slecht |
 
 ## Gebruik

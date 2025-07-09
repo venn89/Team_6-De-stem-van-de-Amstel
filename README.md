@@ -14,11 +14,10 @@ Ontdek de kracht van data en help de Amstel haar verhaal te vertellen!
 Meer algemene informatie en het programma kun je vinden op: https://hackaton.waternet-events.nl/.
 
 ## Informatieve links:
-
-- [RIVM](https://rvs.rivm.nl/onderwerpen/normen/milieu/oppervlaktewater) - Normen opppervlaktewater kwaliteit
+- [RIVM](https://rvs.rivm.nl/onderwerpen/normen/milieu/oppervlaktewater) - Normen stoffen voor opppervlaktewater kwaliteit
 - [Wat is mijn waterkwaliteit](https://watismijnwaterkwaliteit.nl/gebieden/BoezemAmstelland-West) - Informatie waterkwaliteit in Boezem Amstelland-West
-- [Aquo-kit](https://www.waterkwaliteitsportaal.nl/Aquo-kit) - Berekening oppervlaktewater kwaliteit
-- [STOWA](https://www.stowa.nl/publicaties/referenties-en-maatlatten-voor-natuurlijke-watertypen-voor-de-kaderrichtlijn-water-2021-2027-versie) - maatlatten Kaderrichtlijn water
+- [Aquo-kit](https://www.waterkwaliteitsportaal.nl/Aquo-kit) - Tool die gebruik word voor het berekenen van oppervlaktewater kwaliteit
+- [STOWA](https://www.stowa.nl/publicaties/referenties-en-maatlatten-voor-natuurlijke-watertypen-voor-de-kaderrichtlijn-water-2021-2027-versie) - Maatlatten Kaderrichtlijn water
 
 ## Inspiratie links
 - [Deltares](https://www.deltares.nl/nieuws/werelds-eerste-drijvende-stem-van-de-natuur-verklapt-waterkwaliteit) - Drijvende stem Waterkwaliteit
