@@ -7,6 +7,7 @@ De data bevat metingen van oppervlaktewaterkwaliteit, van het eerste data punt i
 
 ## Mappenstructuur
 
+```plaintext
 data/
 ├─ factsheets/
 │ ├─ 2013_factsheet_NL11_1_1.pdf
@@ -41,6 +42,7 @@ data/
 ├─ Lijst van scorende soorten - M-typen_202507071242.csv
 ├─ Normen_stoffen_zoetwater.xlsx
 ├─ STOWA_2018-49-Maatlatten v2024 DEF.pdf
+```
 
 ### factsheets/
 
