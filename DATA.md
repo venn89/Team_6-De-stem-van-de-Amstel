@@ -4,8 +4,7 @@ Dit bestand beschrijft de data die beschikbaar word gesteld in de hackathon.
 ## Beschrijving
 
 De data bevat metingen van oppervlaktewaterkwaliteit, van het eerste data punt in 1963 tot 2025. De bestanden staan op sharepoint en worden met je gedeeld op de dag van de hackathon.
-Oppervlakte kwaliteit word gemeten aan de hand van hydrobiologische en chemische toetsing.
-Vanaf 2006 toetsing is alles gemeten volgens een bepaalde standaard, hiervoor is er op verschillende manieren gemeten. 
+Oppervlakte kwaliteit word gemeten aan de hand van hydrobiologische en chemische toetsing. In de file 'FYCHEM_alleParamtrs_alleJaren_Amstelland_1900tmjuni.csv' staan de ruwe meetgegevens voor de fysisch chemische toetsing. In de file 'HB_alleKwalelementen_alleJaren_Amstelland.csv' staan de ruwe meetgegevens voor hydrobiologische toetsing. Vanaf 2006 zijn de meetwaardes via een bepaalde standaard gemeten, in de jaren hiervoor is dit niet het geval. In [oppervlaktewater kwaliteit analyse notebook](./notebooks/oppervlaktewater_kwaliteit_analyse.ipynb) staat wat meer informatie over de data, hoe je dit inleest, eruit ziet, welke kolommen relevant zijn, en dit kunt visualiseren.
 
 ## Bestanden
 
