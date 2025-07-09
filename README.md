@@ -24,7 +24,7 @@ Meer algemene informatie en het programma kun je vinden op: https://hackaton.wat
 - [Sensingclues](https://www.sensingclues.org/wildchats) - Genai-powered conversations with animals
 
 ## Handige tools:
-In de hackathon werk je in groepen van 5. Per groep krijg je een openai key. Deze kan je gebruiken om met een llm te communiceren. Een handige interface tool voor verschillende taal modellen te gebruiken is openwebui. Het zou fijn zijn als deze al voor de hackathon geinstalleerd kan zijn op je laptop. In [openwebui notebook](/notebooks/openai_keys_open_webui.csv) kun je vinden hoe je deze alvast kan installeren. De openai key krijg je op de dag zelf.
+In de hackathon werk je in groepen van 5. Per groep krijg je een openai key. Deze kan je gebruiken om met een llm te communiceren. Een handige interface tool voor verschillende taal modellen te gebruiken is openwebui. Het zou fijn zijn als deze al voor de hackathon geinstalleerd kan zijn op je laptop. In [openwebui notebook](./notebooks/openai_keys_open_webui.ipynb) kun je vinden hoe je deze alvast kan installeren. De openai key krijg je op de dag zelf.
 
 - [Openai platform](https://platform.openai.com/docs/overview) - openai modellen
 - [Open-webui](https://github.com/open-webui/open-webui) - github openwebui om te installeren
