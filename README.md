@@ -22,6 +22,7 @@ Meer algemene informatie en het programma kun je vinden op: https://hackaton.wat
 ## Inspiratie links
 - [Deltares](https://www.deltares.nl/nieuws/werelds-eerste-drijvende-stem-van-de-natuur-verklapt-waterkwaliteit) - Drijvende stem Waterkwaliteit
 - [Sensingclues](https://www.sensingclues.org/wildchats) - GenAI-powered conversations with animals
+- [NOS](https://nos.nl/regio/limburg/artikel/498094-kunstmatige-intelligentie-geeft-de-maas-een-stem) - Kunstmatige intelligentie geeft de maas een stem
 
 ## Handige tools:
 In de hackathon werk je in groepen van 5. Per groep krijg je een OpenAI key. Deze kan je gebruiken om met een llm te communiceren. Een handige interface tool voor verschillende taal modellen te gebruiken is openwebui. Het zou fijn zijn als deze al voor de hackathon geinstalleerd kan zijn op je laptop. In [openwebui notebook](./notebooks/openai_keys_open_webui.ipynb) kun je vinden hoe je deze alvast kan installeren. De OpenAI key krijg je op de dag zelf.
