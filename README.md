@@ -24,6 +24,10 @@ Meer algemene informatie en het programma kun je vinden op: https://hackaton.wat
 - [Sensingclues](https://www.sensingclues.org/wildchats) - GenAI-powered conversations with animals
 - [NOS](https://nos.nl/regio/limburg/artikel/498094-kunstmatige-intelligentie-geeft-de-maas-een-stem) - Kunstmatige intelligentie geeft de maas een stem
 
+## Data
+Tijdens de hackathon krijg je toegang tot grote datasets over oppervlaktewaterkwaliteit.
+Een uitgebreid overzicht en uitleg vind je in [data.md](./DATA.md).
+
 ## Handige tools:
 In de hackathon werk je in groepen van 5. Per groep krijg je een OpenAI key. Deze kan je gebruiken om met een llm te communiceren. Een handige interface tool voor verschillende taal modellen te gebruiken is openwebui. Het zou fijn zijn als deze al voor de hackathon geinstalleerd kan zijn op je laptop. In [openwebui notebook](./notebooks/openai_keys_open_webui.ipynb) kun je vinden hoe je deze alvast kan installeren. De OpenAI key krijg je op de dag zelf.
 
@@ -34,3 +38,6 @@ Onderstaande nog andere interessante tools die je op de dag zelf kunt gebruiken 
 - [Suno](https://suno.com/home) - maak een liedje 
 - [Gemini](https://gemini.google/overview/video-generation/) - video genereren
 - [Ollama](https://ollama.com/) - gebruik andere taal modellen
+
+Tip: We raden aan om een (nieuw) Gmail-account te gebruiken tijdens de hackathon.
+Hiermee kun je eenvoudig werken in Google Colab en toegang krijgen tot Google Earth Engine, waar je tijdens de hackathon gebruik van zou kunnen maken.
