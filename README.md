@@ -38,6 +38,3 @@ Onderstaande nog andere interessante tools die je op de dag zelf kunt gebruiken 
 - [Suno](https://suno.com/home) - maak een liedje 
 - [Gemini](https://gemini.google/overview/video-generation/) - video genereren
 - [Ollama](https://ollama.com/) - gebruik andere taal modellen
-
-Tip: We raden aan om een (nieuw) Gmail-account te gebruiken tijdens de hackathon.
-Hiermee kun je eenvoudig werken in Google Colab en toegang krijgen tot Google Earth Engine, waar je tijdens de hackathon gebruik van zou kunnen maken.
