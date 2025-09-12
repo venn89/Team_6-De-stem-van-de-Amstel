@@ -12,5 +12,7 @@ To follow along with these notebooks, please make sure you have:
 2. Upload this folder into your Google Drive.
 3. Open the Jupyter Notebooks with **Google Colab** by right-clicking the file in Drive and choosing:
    **Open with → Google Colaboratory**.
+   
+Also, you need to activate Google Earth Engine for a gmail account. To do so, follow the instruction in "Activating and Authenticating Google Earth Engine.pdf". 
 
 ---
