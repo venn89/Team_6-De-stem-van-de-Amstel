@@ -6,13 +6,13 @@ This repository contains a **series of tutorials** designed to introduce you to 
 
 ## How to Use
 
-To follow along with these notebooks, please make sure you have:
+To follow along with the notebooks about google earth engine, please make sure you have:
 
 1. **A Gmail account** with access to **Google Drive**.
 2. Upload this folder into your Google Drive.
 3. Open the Jupyter Notebooks with **Google Colab** by right-clicking the file in Drive and choosing:
    **Open with → Google Colaboratory**.
    
-Also, you need to activate Google Earth Engine for a gmail account. To do so, follow the instruction in "Activating and Authenticating Google Earth Engine.pdf". 
+Also, you need to activate Google Earth Engine for a gmail account. To do so, follow the instruction in ["Activating and Authenticating Google Earth Engine.pdf"](../docs/Activating%20and%20Authenticating%20Google%20Earth%20Engine.pdf). 
 
 ---
