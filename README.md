@@ -59,4 +59,4 @@ Kijk alvast in de [`tutorials`](./tutorials) folder.
 Daar vind je onder andere:
 - Voorbeelden van de beschikbare data (met uitleg hoe je die kunt inladen en verkennen).  
 - Een korte uitleg hoe je **OpenAI API** en **Open-WebUI** kunt opzetten en gebruiken.  
-- Google Earth Engine (GEE) tutorials met codevoorbeelden en links naar documentatie.  
+- Google Earth Engine (GEE) tutorials met codevoorbeelden
