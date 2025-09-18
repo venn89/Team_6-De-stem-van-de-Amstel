@@ -30,7 +30,7 @@ Neem vooral de tijd om hier doorheen te gaan, zodat je tijdens de dag zelf snell
 
 ### Documenten
 Wil je je alvast inlezen in de achtergrond?  
-Ga naar de [`documents`](./docs) folder voor informatie over:
+Ga naar de [`docs`](./docs) folder voor informatie over:
 - [De Amstel](./docs/Amstelland_Onepager.pdf)
 - [Beoordeling en maatregelen per jaar in factsheets over de Amstelboezem](./docs/factsheets)
 - [Maatlatten STOWA kader richtlijn water](./docs/STOWA_2018-49-Maatlatten%20v2024%20DEF.pdf) uitleg hoe de berekening oppervlaktewater kwaliteit word gedaan en wat de eisen zijn
