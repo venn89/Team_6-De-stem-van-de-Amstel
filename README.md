@@ -39,6 +39,9 @@ Ga naar de [`documents`](./docs) folder voor informatie over:
 Tijdens de hackathon krijg je toegang tot grote datasets over oppervlaktewaterkwaliteit.
 Een uitgebreid overzicht en uitleg vind je in [data.md](./DATA.md).
 
+Openbare databases zijn natuurlijk ook toegestaan om gebruik van te maken. Een voorbeeld hiervan is:
+- [KNMI](https://www.knmi.nl/nederland-nu/klimatologie-metingen-en-waarnemingen) - Website met uitgebreide toegang tot actuele én historische neerslagdata
+
 ### Handige tools:
 In de hackathon werk je in groepen van 5. Per groep krijg je een OpenAI key. Deze kan je gebruiken om met een llm te communiceren. Een handige interface tool voor verschillende taal modellen te gebruiken is openwebui. Het zou fijn zijn als deze al voor de hackathon geinstalleerd kan zijn op je laptop. In [openwebui notebook](./docs/openai%20keys%20en%20open%20webui.pdf) kun je vinden hoe je deze alvast kan installeren. De OpenAI key krijg je op de dag zelf.
 
