@@ -37,7 +37,7 @@ Ga naar de [`docs`](./docs) folder voor informatie over:
 
 ### Data
 Tijdens de hackathon krijg je toegang tot grote datasets over oppervlaktewaterkwaliteit.
-Een uitgebreid overzicht en uitleg vind je in [data.md](./DATA.md).
+Een uitgebreid overzicht en uitleg vind je in [DATA.md](./DATA.md).
 
 Openbare databases zijn natuurlijk ook toegestaan om gebruik van te maken. Een voorbeeld hiervan is:
 - [KNMI](https://www.knmi.nl/nederland-nu/klimatologie-metingen-en-waarnemingen) - Website met uitgebreide toegang tot actuele én historische neerslagdata
