@@ -35,7 +35,7 @@ Ga naar de [`docs`](./docs) folder voor informatie over:
 - [Beoordeling en maatregelen per jaar in factsheets over de Amstelboezem](./docs/factsheets)
 - [Maatlatten STOWA kader richtlijn water](./docs/STOWA_2018-49-Maatlatten%20v2024%20DEF.pdf) uitleg hoe de berekening oppervlaktewater kwaliteit word gedaan en wat de eisen zijn
 - [**OpenAI API** en **Open-WebUI**](./docs/openai%20keys%20en%20open%20webui.pdf) Een korte uitleg hoe je OpenAI API en Open-WebUI kunt opzetten en gebruiken.
-- [Activeren en authoriseren GEE](./docs/)(./docs/Activating%20and%20Authenticating%20Google%20Earth%20Engine.pdf)
+- [Activeren en authoriseren GEE](./docs/Activating%20and%20Authenticating%20Google%20Earth%20Engine.pdf)
 
 ### Data
 Tijdens de hackathon krijg je toegang tot grote datasets over oppervlaktewaterkwaliteit.
