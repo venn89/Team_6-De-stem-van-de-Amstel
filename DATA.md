@@ -1,9 +1,9 @@
 # Data 
-Dit bestand beschrijft de data die beschikbaar word gesteld in de hackathon.
+Dit bestand beschrijft de data die beschikbaar wordt gesteld in de hackathon.
 
 ## Beschrijving
 
-De data bevat metingen van oppervlaktewaterkwaliteit, van het eerste data punt in 1963 tot 2025. De bestanden staan op sharepoint en worden met je gedeeld op de dag van de hackathon. Oppervlakte kwaliteit word gemeten aan de hand van hydrobiologische en chemische toetsing. In de file 'FYCHEM_alleParamtrs_alleJaren_Amstelland_1900tmjuni.csv' staan de ruwe meetgegevens voor de fysisch chemische toetsing. In de file 'HB_alleKwalelementen_alleJaren_Amstelland.csv' staan de ruwe meetgegevens voor hydrobiologische toetsing. Vanaf 2006 zijn de meetwaardes via een bepaalde standaard gemeten, in de jaren hiervoor is dit niet het geval. In [oppervlaktewater kwaliteit analyse notebook](./tutorials/Analyseren%20oppervlaktewater%20kwaliteit.ipynb) staat wat meer informatie over de data, hoe je dit inleest, eruit ziet, welke kolommen relevant zijn, en dit kunt visualiseren.
+De data bevat metingen van oppervlaktewaterkwaliteit, van het eerste data punt in 1963 tot 2025. De bestanden staan op sharepoint en worden met je gedeeld op de dag van de hackathon. Oppervlaktewaterkwaliteit wordt gemeten aan de hand van hydrobiologische en chemische toetsing. In de file 'FYCHEM_alleParamtrs_alleJaren_Amstelland_1900tmjuni.csv' staan de ruwe meetgegevens voor de fysisch chemische toetsing. In de file 'HB_alleKwalelementen_alleJaren_Amstelland.csv' staan de ruwe meetgegevens voor hydrobiologische toetsing. Vanaf 2006 zijn de meetwaardes via een bepaalde standaard gemeten, in de jaren hiervoor is dit niet het geval. In [oppervlaktewater kwaliteit analyse notebook](./tutorials/Analyseren%20oppervlaktewater%20kwaliteit.ipynb) staat wat meer informatie over de data, hoe je dit inleest, eruit ziet, welke kolommen relevant zijn, en dit kunt visualiseren.
 
 ## Mappenstructuur
 
@@ -41,9 +41,9 @@ data/
 
 | Bestand | Beschrijving | Opmerkingen |
 |---------|---------------|--------------|
-| `GEE (google earht engine)` | Shapefiles van de Amstel, Amstellandboezem en gemalen  | GEE gebruikt standaard WGS84 (EPSG:4326) coördinaten, dit wijkt af van de coördinatenstelsels waarin de shapefiles zijn aangeleverd |
+| `GEE (Google Earth Engine)` | Shapefiles van de Amstel, Amstellandboezem en gemalen  | GEE gebruikt standaard WGS84 (EPSG:4326) coördinaten, dit wijkt af van de coördinatenstelsels waarin de shapefiles zijn aangeleverd |
 | `Beheerregister_EAG_20241218.zip` | Shapefile ecologisch analyse gebied |  |
-| `Beheerregister_Water_20241218.zip` | Shapefile Afaanvoergebieden | |
+| `Beheerregister_Water_20241218.zip` | Shapefile aan- en afvoergebieden | |
 
 ### uitvoer aquo-kit/
 
@@ -70,14 +70,14 @@ data/
 
 | Naam | Beschrijving | Opmerkingen |
 |------|---------------|--------------|
-| `WSK_{code}.pdf` | In een watersysteemkaart zijn per af aanvoergebied de kunstwerken (gemalen, stuwen, schotten, inlaten, duikers, dammen, enz ) de watergangen en de peilgebieden met peilen te vinden | Ter informatie |
-| `Codes Afvoergebieden.xlsx` | Codes en namen van afvoergebieden in de watersysteemkaarten |  |
+| `WSK_{code}.pdf` | In een watersysteemkaart zijn per aan-/afvoergebied de kunstwerken (gemalen, stuwen, schotten, inlaten, duikers, dammen, enz ) de watergangen en de peilgebieden met peilen te vinden | Ter informatie |
+| `Codes Afvoergebieden.xlsx` | Codes en namen van aan-/afvoergebieden in de watersysteemkaarten |  |
 
 ### Losse bestanden
 | Naam | Beschrijving | Opmerkingen |
 |------|---------------|--------------|
 | `normen_stoffen_zoetwater.csv` | Bevat normen van het RIVM per stof voor zoetwater | Chemische toetsing |
-| `lijst van scorende soorten - M-typen_202507071242` | Lijst van stoffen gewenste en ongewenste soortent | 1-3 gewenst, 4-5 ongewenst, Amstellandboezem = M6b |
+| `lijst van scorende soorten - M-typen_202507071242` | Lijst van stoffen gewenste en ongewenste soorten | 1-3 gewenst, 4-5 ongewenst, Amstellandboezem = M6b |
 
 ## Gebruik
 
