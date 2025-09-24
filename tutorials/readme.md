@@ -6,7 +6,7 @@ This repository contains a **series of tutorials** designed to introduce you to 
 
 ## How to Use
 
-To follow along with the notebooks about google earth engine, please make sure you have:
+To follow along with the notebooks about Google Earth Engine, please make sure you have:
 
 1. **A Gmail account** with access to **Google Drive**.
 2. Upload this folder into your Google Drive.
