@@ -23,6 +23,11 @@ data/
 │ ├─ macrofyten.csv
 │ ├─ vissen.csv
 ├─ waternet FEWS data/
+│ ├─ waterkwantiteit/
+│ │ ├─ Amstelsluizen_waterhoogte.csv
+│ │ ├─ Berlagebrug_debiet_waterhoogte.csv
+│ │ ├─ polderdebieten_10min_fews.zip
+│ │ ├─ polderdebieten_uur_fews.zip
 │ ├─ FYCHEM_alleParamtrs_alleJaren_Amstelland_1900tmjuni.csv
 │ ├─ HB_alleKwalelementen_alleJaren_Amstelland.csv
 │ ├─ FYCHEM_sampled50locations.csv
@@ -58,6 +63,7 @@ data/
 
 | Naam | Beschrijving | Opmerkingen |
 |------|---------------|--------------|
+| `waterkwantiteit` | Sensor waardes van waterhoogte en debieten in de Amstellandboezem |  
 | `FYCHEM_alleParamtrs_alleJaren_Amstelland_1900tmjuni.csv` | Fysische Chemische data voor alle jaren | Meetwaardes |
 | `HB_alleKwalelementen_alleJaren_Amstelland.csv` | Hydrobiologische data voor alle jaren | Meetwaardes |
 | `FYCHEM_sampled50locations.csv` | Een subset van de Fysische Chemische data voor alle jaren | Voor de hackathon kan je al kijken hoe de data eruit ziet |
