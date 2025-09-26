@@ -1,0 +1,15 @@
+,Begindatum,Typering.code,Typering.Omschrijving,Numeriekewaarde,Alfanumeriekewaarde,Classificatie,Normwaarde
+2279,2009,FYTOPL,Fytoplankton-kwaliteit,0.51,,,
+2281,2009,FYT_ABUN,Abundantie fytoplankton,0.626,Goed,4.0,>=0.6 AND <0.8
+2282,2009,FYT_SRTS,Soortensamenstelling fytoplankton,0.393,Ontoereikend,6.0,>=0.2 AND <0.4
+2280,2012,FYTOPL,Fytoplankton-kwaliteit,0.559,,,
+2284,2012,FYT_SRTS,Soortensamenstelling fytoplankton,0.402,Matig,5.0,>=0.4 AND <0.6
+2286,2016,FYTOPL,Fytoplankton-kwaliteit,0.539,,,
+2289,2016,FYT_ABUN,Abundantie fytoplankton,0.608,Goed,4.0,>=0.6 AND <0.8
+2290,2016,FYT_SRTS,Soortensamenstelling fytoplankton,0.469,Matig,5.0,>=0.4 AND <0.6
+2285,2019,FYTOPL,Fytoplankton-kwaliteit,0.429,,,
+2287,2019,FYT_ABUN,Abundantie fytoplankton,0.447,Matig,5.0,>=0.4 AND <0.6
+2288,2019,FYT_SRTS,Soortensamenstelling fytoplankton,0.41,Matig,5.0,>=0.4 AND <0.6
+2291,2024,FYTOPL,Fytoplankton-kwaliteit,0.437,,,
+2292,2024,FYT_ABUN,Abundantie fytoplankton,0.473,Matig,5.0,>=0.4 AND <0.6
+2293,2024,FYT_SRTS,Soortensamenstelling fytoplankton,0.4,Matig,5.0,>=0.4 AND <0.6
