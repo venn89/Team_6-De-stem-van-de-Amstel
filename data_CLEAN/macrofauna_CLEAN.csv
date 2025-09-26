@@ -1,0 +1,13 @@
+Unnamed: 0,Begindatum,Typering.Omschrijving,Grootheid.code,Grootheid.omschrijving,Parameter.code,Parameter.omschrijving,Numeriekewaarde,Alfanumeriekewaarde,Classificatie,Normwaarde
+1580,2006,Macrofauna-kwaliteit,,,,,0.464,Matig,5.0,>=0.4 AND <0.6
+1582,2006,,SOORTRDM,Soortenrijkdom,MAF_soortDP,Macrofauna - soort dominant positief,19.7922,,,<0.8 OR >1
+1583,2006,,SOORTADL,Soortenaandeel,MAF_soortDN,Macrofauna - soort dominant negatief,14.32,,,<0.8 OR >1
+1581,2009,Macrofauna-kwaliteit,,,,,0.403,Matig,5.0,>=0.4 AND <0.6
+1584,2009,,SOORTRDM,Soortenrijkdom,MAF_soortDP,Macrofauna - soort dominant positief,14.5,,,<0.8 OR >1
+1585,2009,,SOORTADL,Soortenaandeel,MAF_soortDN,Macrofauna - soort dominant negatief,13.11,,,<0.8 OR >1
+1587,2012,Macrofauna-kwaliteit,,,,,0.437,Matig,5.0,>=0.4 AND <0.6
+1590,2012,,SOORTRDM,Soortenrijkdom,MAF_soortDP,Macrofauna - soort dominant positief,17.1,,,<0.8 OR >1
+1591,2012,,SOORTADL,Soortenaandeel,MAF_soortDN,Macrofauna - soort dominant negatief,13.42,,,<0.8 OR >1
+1586,2024,Macrofauna-kwaliteit,,,,,0.479,Matig,5.0,>=0.4 AND <0.6
+1588,2024,,SOORTRDM,Soortenrijkdom,MAF_soortDP,Macrofauna - soort dominant positief,19.0777,,,<0.8 OR >1
+1589,2024,,SOORTADL,Soortenaandeel,MAF_soortDN,Macrofauna - soort dominant negatief,12.52,,,<0.8 OR >1
