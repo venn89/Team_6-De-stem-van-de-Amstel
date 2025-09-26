@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@400..800&family=Give+You+Glory&display=swap');
+
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.daphne {
+  font-family: "Give You Glory", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 6rem;
+}
+
+.chat-info {
+  font-family: 'Baloo Bhaina 2', cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.2rem;
+  text-align: center;
+  margin-right: 20rem;
+  margin-left: 20rem;
+  margin-bottom: 1rem;
+}
